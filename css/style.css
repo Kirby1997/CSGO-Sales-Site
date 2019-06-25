@@ -1,0 +1,160 @@
+body{
+
+	padding-top: 130px;
+	background-color: #2B2616;
+
+}
+
+
+.navbar{
+	background-color: #080704;
+	border-color: #2B2616;
+	border-radius: 0px 0px 5px 0px;
+	border-style: solid;
+	border-color: white;
+line-height:50px;
+	color: #C99500;
+	font-weight: bold;
+	
+
+	
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+
+.navbar-default .navbar-brand{
+	color: #D69E00;
+}
+.navbar .nav > li > a {
+
+  color: #D69E00;
+}
+
+#main{
+	color: #D69E00;
+	top: 30%;
+	
+	
+
+}
+
+
+
+#sidePanel {
+	
+	position: fixed;
+	left: 0px;
+	top: 130px;
+	height: 50%;
+	width: 200px;
+	background-color: #080704;
+	padding-right: 5px;
+	padding-top: 20px;
+	border-radius: 0px 20px 20px 0px;
+	border-style: solid;
+	border-color: #C99500 #C99500 #C99500 #080704;
+	opacity: 0.9;
+	border-width:3px;
+	
+}
+
+#sidePanelButton {
+	
+	position: fixed;
+	left: 200px;
+	top: 300px;
+	height: 5%;
+	width: 20px;
+	background-color:#080704;
+	padding-top: 5px;
+	border-radius: 0px 20px 20px 0px;
+	border-style: solid;
+	border-color: #C99500 #C99500 #C99500 #080704;
+	opacity: 0.9;
+	border-width:3px;
+	color: #C99500;
+	
+}
+
+
+
+#sidePanel > p  {
+  color: #C99500;
+}
+
+#border1 {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 20%;
+	height: 100%;
+}
+
+#border2 {
+	position: fixed;
+	right: 0px;
+	top: 0px;
+	width: 20%;
+	height: 100%;
+	transform: scale(-1, 1);
+}
+
+
+
+#login{
+	width: 100%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {text-align: left;}
+
+#blogpost{
+
+	
+}
+
+#listing{
+	
+	background-color: #080704;
+	padding-right: 5px;
+	padding-top: 20px;
+	border-radius: 0px 20px 20px 0px;
+	border-style: solid;
+	border-color: #C99500 #C99500 #C99500 #C99500;
+	opacity: 0.9;
+	border-width:3px;
+	
+	
+}
+
+
+.nav-pills a {
+	color:
+	
+}
+
+
+
+.nav-pills a:hover {
+    background-color: #C99500;
+}
+
+
+
